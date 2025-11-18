@@ -1,7 +1,7 @@
 # Lucas Sousa 👨🏻‍💻
 ### Hey you!
 - 📚 Cursando A.D.S.
-- 💻 Estudando JavaScript, NodeJS, Python e Banco de Dados
+- 💻 JavaScript, NodeJS, ReactJS, Python
 - ❤ Cristão
   ##
 
