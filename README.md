@@ -4,9 +4,8 @@
 - 💻 JavaScript, NodeJS, ReactJS, Python
 - ❤ Cristão
   ##
-<div>
-### <img align="center" alt="Other-html-5-icon" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" /> Linguagens e Tecnologias  
-</div>
+
+### Linguagens e Tecnologias  
 <div style="display: inline_block"><br>
 <img align="center" alt="logo-javascript-icon-512" height="30" width="40" src=https://github.com/user-attachments/assets/9235847c-4f73-45f7-b914-0bc26e3d5d5d>
   <img align="center" alt="Other-html-5-icon" height="26" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
