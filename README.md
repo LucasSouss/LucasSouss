@@ -12,7 +12,7 @@
   <img align="center" alt="CCS-3" height="26" width="35" src=https://github.com/user-attachments/assets/d43d3b54-5957-4f9b-ad19-abb9c1f54ea8>
   <img align="center" alt="Other-html-5-icon" height="26" width="35" src=https://github.com/user-attachments/assets/636473c5-c6d0-4eab-affa-047f8873e7a2>
   <img align="center" alt="Other-html-5-icon" height="24" width="35" src=https://github.com/user-attachments/assets/218b7253-763c-41cc-b4ab-8bbdff0f40ae>
-  <img align="center" alt="Other-html-5-icon" height="24" width="35" src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="Other-html-5-icon" height="24" width="35" src=<img src="icons/react/react-original-wordmark.svg" />
 </div>
  
 
