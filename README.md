@@ -17,6 +17,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=expressjs&theme=dark&perline=15" height="60" alt="Express logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma&theme=dark&perline=15" height="60" alt="Prisma logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb&theme=dark&perline=15" height="60" alt="mongoDB logo"  />
