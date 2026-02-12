@@ -1,6 +1,6 @@
-<h1 align="center">👋May The Force Be With You</h1>
+<h2 align="center">👋May The Force Be With You</h2>
 
-# Lucas Sousa | Full Stack👨🏻‍💻
+<h1 align="center">Lucas Sousa | Full Stack👨🏻‍💻</h1>
 
 ###
 
