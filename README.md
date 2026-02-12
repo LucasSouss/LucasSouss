@@ -1,7 +1,8 @@
 <h2 align="center">👋May The Force Be With You</h2>
+
 <h1 align="center">Lucas Sousa | Full Stack👨🏻‍💻</h1>
 
-<p align="center"><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Transparent.svg"></p>
+###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript&theme=dark&perline=15" height="60" alt="Javascript logo"  />
@@ -23,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb&theme=dark&perline=15" height="60" alt="mongoDB logo"  />
 </div>
 
-<p align="center"><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Transparent.svg"></p>
+###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -33,18 +34,28 @@
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
-<p align="center"><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Transparent.svg"></p>
+###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=lucassouss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=lucassouss&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
 </div>
 
-<p align="center"><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Transparent.svg"></p>
+###
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucassouss/lucassouss/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucassouss/lucassouss/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucassouss/lucassouss/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+
+<picture>
+  <p>&nbsp;</p>
+<p>&nbsp;</p>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucassouss/lucassouss/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucassouss/lucassouss/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucassouss/lucassouss/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
+
+
+
