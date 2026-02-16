@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=apollo,postman,javascript,react,nodejs,nextjs,java,expressjs,prisma,python,graphql,postgresql,mongodb,mysql&theme=dark&perline=15" height="60" alt="Javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,java,nodejs,expressjs,prisma,python,graphql,apollo,postman,postgresql,mongodb,mysql&theme=dark&perline=15" height="60" alt="Javascript logo"  />
   <img width="12" />
   <!-- <img src="https://skillicons.dev/icons?i=react&theme=dark&perline=15" height="60" alt="react logo"  />
   <img width="12" />
