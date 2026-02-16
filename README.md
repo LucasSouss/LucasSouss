@@ -39,8 +39,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=lucassouss&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=lucassouss&layout=compact&theme=dracula" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasSouss&show_icons=true&theme=dracula" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasSouss&layout=compact&theme=dracula" height="170" alt="languages graph" />
 </div>
 
 
