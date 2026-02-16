@@ -5,9 +5,9 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript&theme=dark&perline=15" height="60" alt="Javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=apollo,postman,javascript,react,nodejs,nextjs,java,expressjs,prisma,python,graphql,postgresql,mongodb,mysql&theme=dark&perline=15" height="60" alt="Javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react&theme=dark&perline=15" height="60" alt="react logo"  />
+  <!-- <img src="https://skillicons.dev/icons?i=react&theme=dark&perline=15" height="60" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="12" />
@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgresql&theme=dark&perline=15" height="60" alt="postgreSQL logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark&perline=15" height="60" alt="mongoDB logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark&perline=15" height="60" alt="mongoDB logo"  /> -->
 </div>
 
 ###
