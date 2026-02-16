@@ -23,6 +23,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql&theme=dark&perline=15" height="60" alt="grapgql logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=apollo,postman&theme=dark&perline=15" height="60" alt="apollo and postman logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgresql&theme=dark&perline=15" height="60" alt="postgreSQL logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb&theme=dark&perline=15" height="60" alt="mongoDB logo"  />
