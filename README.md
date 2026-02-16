@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="[https://skillicons.dev/icons?i=py](https://skillicons.dev/icons?i=graphql&theme=dark&perline=15)" height="60" alt="grapgql logo"  />
+  <img src="https://skillicons.dev/icons?i=graphql&theme=dark&perline=15" height="60" alt="grapgql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgresql&theme=dark&perline=15" height="60" alt="postgreSQL logo"  />
   <img width="12" />
