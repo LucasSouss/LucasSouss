@@ -38,9 +38,11 @@
 
 ###
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucassouss&show_icons=true&theme=dracula)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassouss&layout=compact&theme=dracula)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucassouss&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassouss&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+</div>
 
 
 
